@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,32&height=220&section=header&text=SVROJ%20%E2%9A%A1&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%20Solutions%20Architect&descFontSize=20&descAlignY=62" width="100%" alt="Header" />
+<img src="./header.svg" width="100%" alt="Header" />
 
 <!-- Typing Animated Subtitle -->
 <a href="https://github.com/svroj-25">
@@ -24,10 +24,6 @@
 ---
 
 ### 🌟 Men Haqimda (About Me)
-
-Salom! Men **svroj** — yuqori samaradorlikka ega zamonaviy veb-platformalar, murakkab Telegram bot ekotizimlari va Sun'iy Intellekt (AI) integratsiyalariga ixtisoslashgan **Full-Stack Developer**man.
-
-> *"Murakkab muammolarni nafis, tezkor va avtomatlashtirilgan tizimlarga aylantirish — mening kundalik odatim."*
 
 - 🔭 **Hozirgi asosiy fokus:** **[HanLearn](https://github.com/svroj-25)** (120 kunlik to'liq interaktiv Koreys tili o'quv platformasi) va ko'p tarmoqli AI botlar ekotizimi.
 
@@ -113,6 +109,6 @@ Yangi g'oyalar, qiziqarli startaplar yoki murakkab arxitekturalar bo'yicha hamko
 </p>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,32&height=100&section=footer" width="100%" alt="Footer" />
+<img src="./footer.svg" width="100%" alt="Footer" />
 
 </div>
