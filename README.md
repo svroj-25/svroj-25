@@ -30,13 +30,6 @@ Salom! Men **svroj** — yuqori samaradorlikka ega zamonaviy veb-platformalar, m
 > *"Murakkab muammolarni nafis, tezkor va avtomatlashtirilgan tizimlarga aylantirish — mening kundalik odatim."*
 
 - 🔭 **Hozirgi asosiy fokus:** **[HanLearn](https://github.com/svroj-25)** (120 kunlik to'liq interaktiv Koreys tili o'quv platformasi) va ko'p tarmoqli AI botlar ekotizimi.
-- ⚡ **Superpower (Mening Karomatlarim):**
-  - **Full-Stack Mastery:** Next.js 16 (App Router, Turbopack), React 19, TypeScript va Tailwind CSS v4 yordamida piksel darajasida aniq, ultra-tezkor veb-ilovalar yaratish.
-  - **Avtonom Telegram Bot Ekotizimlari:** Aiogram 3 va Python AsyncIO asosida uzluksiz fonda ishlovchi, ko'p qatorli matn va audio xabarlarni tahlil qiluvchi aqlli botlar arxitekturasi.
-  - **AI & LLM Integratsiyalari:** Google Gemini Flash/Pro, NotebookLM va ovozni matnga aylantirish (Whisper) modellarini amaliy biznes va kundalik jarayonlarga tatbiq etish.
-  - **Linux & Server Avtomatizatsiyasi:** Fon jarayonlarini (daemons) mustaqil boshqarish, bash skriptlar, systemd servislari va server darajasidagi monitoring.
-- 🌱 **Doimiy o'rganishda:** Katta miqyosli taqsimlangan tizimlar, yuqori yuklamali (high-load) arxitekturalar va agentik AI tizimlari.
-- 💬 **Men bilan bog'laning:** G'oyalarni noldan professional mahsulot darajasiga olib chiqish uchun ochiqman!
 
 ---
 
@@ -83,53 +76,6 @@ Salom! Men **svroj** — yuqori samaradorlikka ega zamonaviy veb-platformalar, m
 </p>
 
 </div>
-
----
-
-### 🚀 Saralangan Loyihalar (Featured Projects)
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🇰🇷 HanLearn — 120-Day Korean Challenge</h3>
-      <p><b>Zamonaviy interaktiv Koreys tili o'quv platformasi</b></p>
-      <ul>
-        <li><b>Stack:</b> Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, Lucide Icons</li>
-        <li><b>Imkoniyatlar:</b> 120 kunlik intensiv yo'l xaritasi, bosqichma-bosqich imtihonlar (milestone exams), audio lug'at, kunlik qaydlar muharriri va LocalStorage progress sinxronizatsiyasi.</li>
-        <li><b>Xususiyati:</b> Maxsus daemon boshqaruv skripti orqali to'liq server fonida ishlash imkoniyati.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Shaxsiy Kotib (Master AI Ecosystem)</h3>
-      <p><b>Google Gemini AI asosidagi aqlli Telegram boshqaruvchi</b></p>
-      <ul>
-        <li><b>Stack:</b> Python 3, Aiogram, Google Gemini Flash API, SQLite</li>
-        <li><b>Imkoniyatlar:</b> Foydalanuvchining shaxsiy vazifalari, eslatmalari va strategik rejalarini boshqarish. Ovozli xabarlarni tabiiy tilda tushunish va qayta ishlash.</li>
-        <li><b>Xususiyati:</b> Barcha ichki tizimlar bilan integratsiyalashgan markaziy miya.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Moliya va Hisob-Kitob Boti</h3>
-      <p><b>AI quvvatiga ega shaxsiy moliyaviy yordamchi</b></p>
-      <ul>
-        <li><b>Stack:</b> Python, Telebot / Aiogram, Gemini AI, SQLite / asyncpg</li>
-        <li><b>Imkoniyatlar:</b> Ovozli xabarlar orqali xarajatlarni toifalarga ajratish, ko'p qatorli murakkab matnlardan summalarni ajratish, diagrammalar va oylik tahlil.</li>
-        <li><b>Xususiyati:</b> AI orqali byudjetni optimallashtirish va xarajatlarni qisqartirish maslahatlari.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 NotebookLM AI Assistant</h3>
-      <p><b>Bilimlarni boshqarish va intellektual qidiruv boti</b></p>
-      <ul>
-        <li><b>Stack:</b> Python, LLM API, Semantic Retrieval, Vector Indexing</li>
-        <li><b>Imkoniyatlar:</b> Katta hajmli matnlar, hujjatlar va ovozli qaydlarni tahlil qilish, aniq iqtiboslar bilan savollarga javob berish.</li>
-        <li><b>Xususiyati:</b> Ma'lumotlarni daqiqalar ichida qidirib topuvchi shaxsiy bilimlar ombori.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
